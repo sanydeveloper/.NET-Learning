@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\.NET Learning\bin\Debug\net9.0\.NET Learning.exe
+C:\Users\Hp\Desktop\.NET Learning\bin\Debug\net9.0\.NET Learning.deps.json
+C:\Users\Hp\Desktop\.NET Learning\bin\Debug\net9.0\.NET Learning.runtimeconfig.json
+C:\Users\Hp\Desktop\.NET Learning\bin\Debug\net9.0\.NET Learning.dll
+C:\Users\Hp\Desktop\.NET Learning\bin\Debug\net9.0\.NET Learning.pdb
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.AssemblyInfo.cs
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.dll
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\refint\.NET Learning.dll
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.pdb
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.genruntimeconfig.cache
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\ref\.NET Learning.dll
