@@ -12,3 +12,4 @@ C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\refint\.NET Learning.dll
 C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.pdb
 C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.genruntimeconfig.cache
 C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\ref\.NET Learning.dll
+C:\Users\Hp\Desktop\.NET Learning\obj\Debug\net9.0\.NET Learning.sourcelink.json
